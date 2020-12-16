@@ -1,4 +1,8 @@
 iframe {
-  display: flexbox;
-  flex: content;
+  width: 560px;
+  height: 315px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  padding: 3px;
 }
