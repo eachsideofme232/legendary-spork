@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "legendary-spork",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "legendary-spork",
+    "editor.tabSize": 2
+  }
+}
