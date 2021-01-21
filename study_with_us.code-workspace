@@ -1,10 +1,13 @@
 {
   "folders": [
-	{
-		"name": "legendary-spork",
-		"path": "."
-	}
-],
+    {
+      "name": "legendary-spork",
+      "path": "."
+    },
+    {
+      "path": "..\\postech"
+    }
+  ],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "legendary-spork",
     "editor.tabSize": 2
